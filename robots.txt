@@ -1,0 +1,6 @@
+﻿User-Agent: *
+Disallow: /documentacionlegal/
+Disallow: /phoneinstall/
+Disallow: /errores/
+Sitemap:
+https://www.newsbad.es/sitemap.xml
